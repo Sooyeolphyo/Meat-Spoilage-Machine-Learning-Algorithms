@@ -6,15 +6,15 @@ Prepare DataEnsure that your_pca_factors2.csv (PCA data) and your_pls_factors2.c
 
 PCA data (your_pca_factors2.csv):
 
-PC1,PC2
-0.12,0.34
-0.56,0.78
+PC1, PC2
+0.12, 0.34
+0.56, 0.78
 
 PLS data (your_pls_factors2.csv):
 
-Factor2,Factor3
-1.23,4.56
-7.89,2.34
+Factor2, Factor3
+1.23, 4.56
+7.89, 2.34
 
 Run the ScriptExecute the Python script:
 
