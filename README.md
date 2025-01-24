@@ -2,17 +2,17 @@ Install Required LibrariesRun the following command to install the necessary Pyt
 
 pip install pandas numpy scikit-learn matplotlib
 
-Prepare DataEnsure that your_pca_factors2.csv (PCA data) and your_pls_factors2.csv (PLS data) are available in the specified paths.Example structure:
+Prepare DataEnsure that your_pca_factors.csv (PCA data) and your_pls_factors.csv (PLS data) are available in the specified paths.Example structure:
 
-- **PCA data (`your_pca_factors2.csv`)**:
+- **PCA data (`your_pca_factors.csv`)**:
 
 PC1, PC2
 0.12, 0.34
 0.56, 0.78
 
-- **PLS data (`your_pls_factors2.csv`)**:
+- **PLS data (`your_pls_factors.csv`)**:
 
-Factor2, Factor3
+Factor1, Factor2
 1.23, 4.56
 7.89, 2.34
 
